@@ -134,10 +134,6 @@ public class SingleLinkedList {
 		return size;
 	}
 	
-//	public void test() {
-//		
-//		System.out.println(head.next.next);
-//	}
 	
 	public static void main(String[] args) {
 		
@@ -156,7 +152,6 @@ public class SingleLinkedList {
 		
 		sl.printList();
 		
-//		sl.test();
 		
 //		sl.deleteFirst();
 //		sl.printList();

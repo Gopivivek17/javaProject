@@ -1,6 +1,5 @@
 package com.cts.java8features;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 

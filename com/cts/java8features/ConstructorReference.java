@@ -40,7 +40,7 @@ public class ConstructorReference {
 		
 		Interf r = Student1::new;
 		
-		Student1 s2 = r.get("Ram",2507388,20,100);
+		Student1 s2 = r.get("Ram",25078,20,89);
 		
 		System.out.println(s2);
 		
